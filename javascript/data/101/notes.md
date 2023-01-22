@@ -4,7 +4,7 @@
 
 
 
-<!-- avoid `var` !!! -->
+avoid `var` !!!
 `var`
 ```
 var name = 'Paul';
@@ -13,7 +13,7 @@ var name = 'Paul';
 
 
 
-<!-- this variable can be reassigned -->
+this variable can be reassigned
 `let`
 ```
 let name = 'Paul';
@@ -25,8 +25,8 @@ name = 'Paula';
 
 
 
-<!-- contstant -->
-<!-- this variable cannot be reassigned -->
+constant
+this variable cannot be reassigned
 `const` 
 ```
 const name = 'Paul';
