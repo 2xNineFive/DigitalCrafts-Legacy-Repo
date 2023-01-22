@@ -36,6 +36,6 @@ name = 'Paula';
 
 
 
-I also learned that tildes can create a code bit and a code block in `.md` files. 
-I also learned that a single hashtag indicates a heading in `.md` files.
+I also learned that tildes can create a code bit and a code block in `.md` files. <br>
+I also learned that a single hashtag indicates a heading in `.md` files. <br>
 I also learned that double hashtags indicate a subheading in `.md` files.
