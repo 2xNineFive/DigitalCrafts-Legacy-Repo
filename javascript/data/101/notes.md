@@ -8,6 +8,7 @@
 `var`
 ```
 var name = 'Paul';
+<!-- avoid `var` !!! -->
 ```
 
 
