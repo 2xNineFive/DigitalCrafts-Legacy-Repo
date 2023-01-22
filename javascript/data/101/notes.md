@@ -36,4 +36,4 @@ name = 'Paula';
 
 
 
-I also learned that tildes can create a code bit and a code block in .md
+I also learned that tildes can create a code bit and a code block in `.md` files. 
