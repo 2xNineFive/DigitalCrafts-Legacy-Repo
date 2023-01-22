@@ -35,3 +35,9 @@ name = 'Paula';
 <!-- the reassignment of `name` is not allowed! -->
 ```
 
+I also learned that `` will create a code bit. 
+
+I also learned that:
+```
+```
+will create a code block. 
