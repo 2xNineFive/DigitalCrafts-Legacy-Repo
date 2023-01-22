@@ -20,7 +20,6 @@ var name = 'Paul';
 let name = 'Paul';
 name = 'Paula'; 
 <!-- the reassignment of `name` is allowed! -->
-
 ```
 
 
@@ -35,9 +34,6 @@ name = 'Paula';
 <!-- the reassignment of `name` is not allowed! -->
 ```
 
-I also learned that `` will create a code bit. 
 
-I also learned that:
-```
-```
-will create a code block. 
+
+I also learned that tildes can create a code bit and a code block in .md
