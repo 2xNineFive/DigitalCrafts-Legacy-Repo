@@ -53,3 +53,12 @@ Objects and Arrays are not data types. Rather, they collect data types. <br>
 
 Arrays can collect other collections like objects. <br>
 
+Javascript considers arrays to be objects. So the shoppingList array above looks like this to JS: 
+```
+const shoppingList = {
+    0: 'apples',
+    1: 'celery',
+    2: 'bread'
+};
+```
+Notice the key:value pairs! The indices are the keys and the strings are the values! 
