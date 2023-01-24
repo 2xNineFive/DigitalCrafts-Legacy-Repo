@@ -20,7 +20,7 @@ We use bracket notation or dot notation to read data.
  console.log(car.mileage); // --> 67302 
 ```
 
-## strings, boolean and numbers 
+## strings, booleans and numbers 
 Refer to the variable name to read the data. 
 ```
 const name = 'Paul';
