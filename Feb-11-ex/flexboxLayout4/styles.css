@@ -3,6 +3,21 @@
     padding: 0;
 }
 
+html,
+body {
+    height: 100%
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bg {
+    background-color: #baddc3;
+}
+
 .main-container {
     display: flex;
     height: 30rem;
@@ -11,7 +26,8 @@
     background-color: #baddc3;
     /* column-gap: 10px; */
     row-gap: 10px;
-    border: #baddc3 solid 10px;
+    padding: 10px;
+    /* border: #baddc3 solid 10px; */
 
 }
 
